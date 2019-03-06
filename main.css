@@ -1,0 +1,72 @@
+
+.img{
+    position: relative;
+}
+
+.txt1{
+    position: absolute;
+    font-size: 25px;
+    top: 270px;
+    left: 50px;
+    width: 270px;
+}
+
+.txt2{
+    position: absolute;
+    font-size: 25px;
+    top: 270px;
+    left: 380px;
+    width: 270px;
+}
+
+.txt3{
+    position: absolute;
+    font-size: 25px;
+    top: 270px;
+    left: 740px;
+    width: 270px;
+}
+
+.txt4{
+    position: absolute;
+    font-size: 25px;
+    top: 270px;
+    left: 1140px;
+    width: 270px;
+}
+
+.txt5{
+    position: absolute;
+    font-size: 25px;
+    top: 850px;
+    left: 50px;
+    width: 270px;
+}
+
+.txt6{
+    position: absolute;
+    font-size: 25px;
+    top: 850px;
+    left: 380px;
+    width: 270px;
+}
+
+.txt7{
+    position: absolute;
+    font-size: 25px;
+    top: 850px;
+    left: 740px;
+    width: 270px;
+}
+
+.txt8{
+    position: absolute;
+    font-size: 25px;
+    top: 850px;
+    left: 1140px;
+    width: 270px;
+}
+
+.bold{
+    font-weight: 700;
+}
